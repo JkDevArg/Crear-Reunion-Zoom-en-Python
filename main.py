@@ -16,7 +16,7 @@ def talk(text):
     engine.say(text)
     engine.runAndWait()
 
-rutaz = os.path.entrar(os.path.entrar(os.environ['USERPROFILE']), 'AppData\\Roaming\\Zoom\\bin\\') #Ruta del ZOOM cambiar si solo lo tiene instalado en otra ruta
+rutaz = os.path.join(os.path.join(os.environ['USERPROFILE']), 'AppData\\Roaming\\Zoom\\bin\\') #Ruta del ZOOM cambiar si solo lo tiene instalado en otra ruta
 setHora = "30/11/21 18:38"
 
 
