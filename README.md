@@ -19,6 +19,10 @@
 ![Prueba](https://github.com/JkDevArg/Crear-Reunion-Zoom-en-Python/blob/main/prueba.png)
 * Pegar su ID y contraseña generada en el código `entrar("ID", "CONTRASEÑA GENERADA")`
 
+## Configuración de horario
+
+* `setHora = "30/11/21 18:38"` Cambiar por el día y hora que requiera crear la reunión
+
 
 ## 🚀 Soy JkDev!
 Me gustan los dinosaurios y estoy creando herramientas en Python para dar accesibilidad a ciertas acciones.
