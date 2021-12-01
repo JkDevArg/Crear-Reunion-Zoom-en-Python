@@ -47,7 +47,7 @@ def entrar():
     time.sleep(1)
     pyautogui.hotkey('alt','v') #Desconectamos el microfono
     pyautogui.hotkey('alt','a') #Desconectamos el video
-    pyautogui.hotkey('alt','a') #Abrimos la pestaña del chat
+    pyautogui.hotkey('alt','h') #Abrimos la pestaña del chat
     time.sleep(5)
 
     
