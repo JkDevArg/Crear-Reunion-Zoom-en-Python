@@ -9,7 +9,8 @@
 | **Speech Recognition** | `pip install SpeechRecognition` |
 | **PyWhatKit** | `pip install pywhatkit`
 | **PyTTSX3** | `pip install pyttsx3` |
-![Python](https://img.shields.io/pypi/pyversions/django)
+| **Python** | ![Python](https://img.shields.io/pypi/pyversions/django) |
+
 
 ## Instrucciones configuración (por ahora hasta que actualice)
 
